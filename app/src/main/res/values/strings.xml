@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="name001">Bulbasaur</string>
+    <string name="number001">#001</string>
+</resources>
